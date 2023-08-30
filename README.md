@@ -5,6 +5,4 @@ Features include:
 1) It is a responsive clone, so it's use can be extended to mobiles as well.
 2) Use of utility classes.
 
-Contact me:
-1) Mobile No: 8764084457
-2) Email Id - gangaldhruv15@gmail.com
+
